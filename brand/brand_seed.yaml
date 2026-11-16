@@ -1,0 +1,10 @@
+name: "Demlik & Co."            # çalışma adı; kullanıcı değiştirebilir
+sector: "Üçüncü dalga kahve / butik kafe"
+location: "Türkiye, üniversite şehri (kurgusal tek şube + online çekirdek satışı)"
+one_liner: "Ders arasında da, deadline gecesinde de iyi kahve."
+target_audience_hint: "Üniversite öğrencileri, genç uzaktan çalışanlar, kahve meraklıları (18-30)"
+values_hint: ["şeffaf tedarik", "topluluk", "sakin odak alanı", "erişilebilir kalite"]
+channels: ["Instagram", "TikTok/Reels", "Blog (web sitesi)", "LinkedIn (opsiyonel)"]
+language: "tr"
+persona_count: 1                # kullanıcı kararı (Milestone 2)
+address_form: "sen"             # hitap kuralı: sen / siz (kullanıcı kararı)
